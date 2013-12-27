@@ -1,4 +1,5 @@
 nodeunit-example
 ================
 
-A minimalistic example of the nodeunit package
+This repository contians a minimalistic example of the
+[nodeunit](https://github.com/caolan/nodeunit) package.
